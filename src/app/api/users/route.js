@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
-import { ApiError } from "@/helpers/ApiError.js";
-import { connect } from "@/dbconfig/dbConfig.js";
-import Booking from "@/models/bookingModel.js"; 
+import { ApiError } from "../../../helpers/ApiError";
+import { connect } from "../../../dbconfig/dbConfig.js";
+import Booking from "../../../models/bookingModel.js";
 
 connect();
 
@@ -28,7 +28,7 @@ export async function POST(request) {
       !dateOfBooking ||
       !address
     ) {
-        console.log("hi")
+      console.log("hi");
       throw new ApiError(400, "All fields are necessary");
     }
 
@@ -47,7 +47,6 @@ export async function POST(request) {
       throw new ApiError(500, "Unable to save booking data");
     }
 
-    
     return NextResponse.json(
       {
         message: "Booking created successfully",

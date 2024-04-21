@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "contactFormTitle": "Réservez votre place pour",
+    "Ptext": "Remplissez le formulaire ci-dessous et nous vous répondrons dès que possible.",
+    "contactFormDescription": "Remplissez le formulaire ci-dessous et nous vous répondrons dès que possible.",
+    "nameLabel": "Nom",
+    "emailLabel": "E-mail",
+    "Scess": "Réservation créée avec succès ! Nous vous contacterons bientôt.",
+    "phoneNumberLabel": "Numéro de téléphone",
+    "selectedServiceLabel": "Service sélectionné",
+    "preferredContactLabel": "Contact préféré",
+    "selectContactOption": "Sélectionner un contact",
+    "numberOfBookingsLabel": "Nombre de réservations",
+    "dateOfBookingLabel": "Date de réservation",
+    "addressLabel": "Adresse",
+    "submitButtonLabel": "Soumettre"
+  }
+}

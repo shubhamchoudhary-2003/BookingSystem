@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "contactFormTitle": "Reserve su asiento para",
+    "Ptext": "Complete el formulario a continuación y nos pondremos en contacto con usted lo antes posible.",
+    "contactFormDescription": "Complete el formulario a continuación y nos pondremos en contacto con usted lo antes posible.",
+    "nameLabel": "Nombre",
+    "emailLabel": "Correo electrónico",
+    "Scess": "¡Reserva creada con éxito! Nos pondremos en contacto contigo pronto.",
+    "phoneNumberLabel": "Número de teléfono",
+    "selectedServiceLabel": "Servicio seleccionado",
+    "preferredContactLabel": "Contacto preferido",
+    "selectContactOption": "Seleccionar contacto",
+    "numberOfBookingsLabel": "Número de reservas",
+    "dateOfBookingLabel": "Fecha de reserva",
+    "addressLabel": "Dirección",
+    "submitButtonLabel": "Enviar"
+  }
+}

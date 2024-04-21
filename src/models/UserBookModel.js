@@ -33,7 +33,7 @@ const bookingSchema = new Schema({
   },
   address: {
     type: String,
-    required: false
+   
   }
 }, { timestamps: true });
 

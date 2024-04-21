@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "contactFormTitle": "Book you Seat For",
+    "Ptext": "Fill out the form below and we'll get back to you as soon as possible. ",
+    "contactFormDescription": "Fill out the form below and we'll get back to you as soon as possible.",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "Scess": "Booking created successfully! We will contact you soon.",
+    "phoneNumberLabel": "Phone Number",
+    "selectedServiceLabel": "Selected Service",
+    "preferredContactLabel": "Preferred Contact",
+    "selectContactOption": "Select Contact",
+    "numberOfBookingsLabel": "Number of Bookings",
+    "dateOfBookingLabel": "Date of Booking",
+    "addressLabel": "Address",
+    "submitButtonLabel": "Submit"
+  }
+}

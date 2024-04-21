@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "contactFormTitle": "Buchen Sie Ihren Platz für",
+    "Ptext": "Füllen Sie das Formular unten aus und wir werden uns so schnell wie möglich bei Ihnen melden.",
+    "contactFormDescription": "Füllen Sie das Formular unten aus und wir werden uns so schnell wie möglich bei Ihnen melden.",
+    "nameLabel": "Name",
+    "emailLabel": "E-Mail",
+    "Scess": "Buchung erfolgreich erstellt! Wir werden uns bald mit Ihnen in Verbindung setzen.",
+    "phoneNumberLabel": "Telefonnummer",
+    "selectedServiceLabel": "Ausgewählter Service",
+    "preferredContactLabel": "Bevorzugter Kontakt",
+    "selectContactOption": "Kontakt auswählen",
+    "numberOfBookingsLabel": "Anzahl der Buchungen",
+    "dateOfBookingLabel": "Datum der Buchung",
+    "addressLabel": "Adresse",
+    "submitButtonLabel": "Absenden"
+  }
+}

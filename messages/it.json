@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "contactFormTitle": "Prenota il tuo posto per",
+    "Ptext": "Compila il modulo qui sotto e ti risponderemo il prima possibile.",
+    "contactFormDescription": "Compila il modulo qui sotto e ti risponderemo il prima possibile.",
+    "nameLabel": "Nome",
+    "emailLabel": "Email",
+    "Scess": "Prenotazione creata con successo! Ti contatteremo presto.",
+    "phoneNumberLabel": "Numero di telefono",
+    "selectedServiceLabel": "Servizio selezionato",
+    "preferredContactLabel": "Contatto preferito",
+    "selectContactOption": "Seleziona contatto",
+    "numberOfBookingsLabel": "Numero di prenotazioni",
+    "dateOfBookingLabel": "Data della prenotazione",
+    "addressLabel": "Indirizzo",
+    "submitButtonLabel": "Invia"
+  }
+}
